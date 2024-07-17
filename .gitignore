@@ -1,3 +1,8 @@
+package-lock.json,
+public/temp/.gitkeep,
+.gitignore,
+
+
 # Logs
 logs
 *.log
